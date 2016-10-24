@@ -1,0 +1,51 @@
+{
+    "gameofthrones":[{
+        "title":"Game of Thrones S1",
+        "season":"1",
+        "main_characters" : ["Peter Dinklage","Lena Headey","Emilia Clarke","Kit Harington","Sophie Turner","Maisie Williams"],
+        "description":"In the mythical continent of Westeros, several powerful families fight for control of the Seven Kingdoms. As conflict erupts in the kingdoms of men, an ancient enemy rises once again to threaten them all. Meanwhile, the last heirs of a recently usurped dynasty plot to take back their homeland from across the Narrow Sea. Game of Thrones is roughly based on the storylines of A Song of Ice and Fire, set in the fictional Seven Kingdoms of Westeros and the continent of Essos. The series chronicles the violent dynastic struggles among the realm's noble families for the Iron Throne, while other families fight for independence from it. It opens with additional threats in the icy North and Essos in the east.",
+        "poster":"s1p.jpg",
+        "first_image":"s1.jpg"
+    },
+    {
+        "title":"Game of Thrones S2",
+        "season":"2",
+        "main_characters" : ["Peter Dinklage","Lena Headey","Emilia Clarke","Kit Harington","Sophie Turner","Maisie Williams"],
+        "description":"In the mythical continent of Westeros, several powerful families fight for control of the Seven Kingdoms. As conflict erupts in the kingdoms of men, an ancient enemy rises once again to threaten them all. Meanwhile, the last heirs of a recently usurped dynasty plot to take back their homeland from across the Narrow Sea. Game of Thrones is roughly based on the storylines of A Song of Ice and Fire, set in the fictional Seven Kingdoms of Westeros and the continent of Essos. The series chronicles the violent dynastic struggles among the realm's noble families for the Iron Throne, while other families fight for independence from it. It opens with additional threats in the icy North and Essos in the east.",
+        "poster":"s2p.jpg",
+        "first_image":"s2.jpg"
+    },
+    {
+        "title":"Game of Thrones S3",
+        "season":"3",
+        "main_characters" : ["Peter Dinklage","Lena Headey","Emilia Clarke","Kit Harington","Sophie Turner","Maisie Williams"],
+        "description":"In the mythical continent of Westeros, several powerful families fight for control of the Seven Kingdoms. As conflict erupts in the kingdoms of men, an ancient enemy rises once again to threaten them all. Meanwhile, the last heirs of a recently usurped dynasty plot to take back their homeland from across the Narrow Sea. Game of Thrones is roughly based on the storylines of A Song of Ice and Fire, set in the fictional Seven Kingdoms of Westeros and the continent of Essos. The series chronicles the violent dynastic struggles among the realm's noble families for the Iron Throne, while other families fight for independence from it. It opens with additional threats in the icy North and Essos in the east.",
+        "poster":"s3p.jpg",
+        "first_image":"s3.jpg"
+    },
+    {
+        "title":"Game of Thrones S4",
+        "season":"4",
+        "main_characters" : ["Peter Dinklage","Lena Headey","Emilia Clarke","Kit Harington","Sophie Turner","Maisie Williams"],
+        "description":"In the mythical continent of Westeros, several powerful families fight for control of the Seven Kingdoms. As conflict erupts in the kingdoms of men, an ancient enemy rises once again to threaten them all. Meanwhile, the last heirs of a recently usurped dynasty plot to take back their homeland from across the Narrow Sea. Game of Thrones is roughly based on the storylines of A Song of Ice and Fire, set in the fictional Seven Kingdoms of Westeros and the continent of Essos. The series chronicles the violent dynastic struggles among the realm's noble families for the Iron Throne, while other families fight for independence from it. It opens with additional threats in the icy North and Essos in the east.",
+        "poster":"s4p.jpg",
+        "first_image":"s4.jpg"
+    },
+    {
+        "title":"Game of Thrones S5",
+        "season":"5",
+        "main_characters" : ["Peter Dinklage","Lena Headey","Emilia Clarke","Kit Harington","Sophie Turner","Maisie Williams"],
+        "description":"In the mythical continent of Westeros, several powerful families fight for control of the Seven Kingdoms. As conflict erupts in the kingdoms of men, an ancient enemy rises once again to threaten them all. Meanwhile, the last heirs of a recently usurped dynasty plot to take back their homeland from across the Narrow Sea. Game of Thrones is roughly based on the storylines of A Song of Ice and Fire, set in the fictional Seven Kingdoms of Westeros and the continent of Essos. The series chronicles the violent dynastic struggles among the realm's noble families for the Iron Throne, while other families fight for independence from it. It opens with additional threats in the icy North and Essos in the east.",
+        "poster":"s5p.jpg",
+        "first_image":"s5.jpg"
+    },
+    {"title":"Game of Thrones S6",
+        "season":"6",
+        "main_characters" : ["Peter Dinklage","Lena Headey","Emilia Clarke","Kit Harington","Sophie Turner","Maisie Williams"],
+        "description":"In the mythical continent of Westeros, several powerful families fight for control of the Seven Kingdoms. As conflict erupts in the kingdoms of men, an ancient enemy rises once again to threaten them all. Meanwhile, the last heirs of a recently usurped dynasty plot to take back their homeland from across the Narrow Sea. Game of Thrones is roughly based on the storylines of A Song of Ice and Fire, set in the fictional Seven Kingdoms of Westeros and the continent of Essos. The series chronicles the violent dynastic struggles among the realm's noble families for the Iron Throne, while other families fight for independence from it. It opens with additional threats in the icy North and Essos in the east.",
+        "poster":"s6p.jpg",
+        "first_image":"s6.jpg"
+    }
+    ]
+
+}

@@ -1,0 +1,28 @@
+<head>
+    <% include partials/head.ejs %>
+</head>
+<body>
+    <% include partials/navbar.ejs %>
+<div id = 'partsimg' style = "background-image : url('../img/<%= season.first_image %>');">
+    <h1 id = 'game-title'><%= title %></h1>
+    </div>
+    <div id = 'nfo' class="content-padding ">
+    <div class = 'poster-wrapper'>
+        <img src = '/img/<%= season.poster %>' class = 'img-responsive'>
+        </div>
+    <div class = 'descrip'>
+        <h2 class = 'movie-header'>Description</h2>
+        <p><%= season.description %> </p>        
+        </div>
+        <div class = 'main_char'>
+            <h2 class= 'movie-header'>Main Characters</h2>
+            <ul>
+            <% for(var i=0;i<main.length;i++) { %>
+                <li><%= main[i] %></li>
+                <% } %>
+                </ul>
+            </div>
+        </div>
+        <% include partials/footer.ejs %>
+         </body>
+<% include partials/script.ejs %>

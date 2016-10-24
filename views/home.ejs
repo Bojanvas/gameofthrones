@@ -1,0 +1,25 @@
+<head>
+    <% include partials/head.ejs %>
+</head>
+<body>
+    <% include partials/navbar.ejs %>
+<div id = 'backimg'>
+    <h1 id = 'game-title'><%= title %></h1>
+    </div>
+    
+    <div id = 'posters' class = 'content-padding'>
+        <% for (var i =0;i<gameofthrones.length;i++) { %>
+        <div class = 'poster'>
+            <a href = '/gameofthrones/<%= gameofthrones[i].season %>' >
+            <img src = '/img/<%= gameofthrones[i].poster %>' class = 'img-responsive'>
+            <div class = 'poster-info'>
+                <h3><%= gameofthrones[i].title %></h3>
+                <h4>View more<i class="fa fa-arrow-right" ></i></h4>
+                </div>
+            </a>
+            </div>
+        <% } %>
+     </div>   
+      <% include partials/footer.ejs %>
+     </body>
+<% include partials/script.ejs %>

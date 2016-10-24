@@ -1,0 +1,220 @@
+.content-padding {
+	padding-left: 11%;
+	padding-right: 11%;
+}
+body{
+    color: #333;
+}
+
+
+#backimg {
+	height: 550px;
+	width: 100%;
+	background-color: #444;
+	background-image: url('../img/game.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	position: relative;
+}
+#backimg #game-title {
+	position: absolute;
+	background-color: #fff;
+	padding: 25px 60px;
+	left: 50%;
+	-webkit-transform: translateX(-50%);
+	-moz-transform: translateX(-50%);
+	-o-transform: translateX(-50%);
+	-ms-transform: translateX(-50%);
+  transform: translateX(-50%);
+
+  bottom: 0;
+  margin: 0px;
+  text-transform: uppercase;
+  font-weight: 400;
+  font-size: 1.20em;
+  letter-spacing: 0.4px;
+}
+.poster {
+	width: 29%;
+	margin-right: 4%;
+	display: inline-block;
+	position: relative;
+}
+#posters{  
+    padding-top: 75px;
+}
+.poster-info {
+	position: absolute;
+	background: rgba(0,0,0,0.7);	
+	bottom: 0;
+	left: 0;
+	opacity: 0;
+	transition: 0.5s ease-in-out;
+	padding: 30px 15px;
+}
+.poster-info h3 {
+	text-transform: uppercase;
+	font-weight: 400;
+  font-size: 13px;
+  letter-spacing: 0.3px;
+  color: #fff;
+  margin: 0px;
+}
+.poster-info h4 {
+	text-transform: uppercase;
+	font-weight: 400;
+  font-size: 11px;
+  letter-spacing: 0.3px;
+  color: #fff;
+  margin: 0px;	
+  margin-top: 15px;
+}
+.poster:hover .poster-info {
+	opacity: 1;
+}
+.dropdown.open .dropdown-menu li a {
+	transition: 0.5s ease-in-out;
+}
+.navbar-nav>li>.dropdown-menu {
+	background-color: rgba(0,0,0,0.5);
+}
+navbar-nav li a:hover,
+.navbar-nav li a:focus {
+	background-color: transparent;
+}
+nav {
+    height:20px;
+
+    background: transparent;
+}
+.navbar-fixed-top {
+	position: absolute;
+	padding-top: 10px;
+}
+.navbar-nav li a {
+	color: #fff;
+	text-transform: uppercase;
+	letter-spacing: 0.3px;
+	font-size: 12px;
+}
+#partsimg {
+	height: 550px;
+	width: 100%;
+	background-color: #444;
+	background-image: url('../img/game.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	position: relative;
+}
+#partsimg #game-title {
+	position: absolute;
+	background-color: #fff;
+	padding: 25px 60px;
+	left: 50%;
+	-webkit-transform: translateX(-50%);
+	-moz-transform: translateX(-50%);
+	-o-transform: translateX(-50%);
+	-ms-transform: translateX(-50%);
+  transform: translateX(-50%);
+
+  bottom: 0;
+  margin: 0px;
+  text-transform: uppercase;
+  font-weight: 400;
+  font-size: 1.20em;
+  letter-spacing: 0.4px;
+}
+.poster-wrapper {
+	float: left;
+	width: 35%;
+	margin-top: 50px;
+}
+.descrip{
+    float:right;
+    margin-left:5%;
+    width:60%;
+    margin-top:50px;
+}
+.descrip p {
+	line-height: 1.95;
+	letter-spacing: 0.3px;
+	font-size: 13px;
+	margin-bottom: 25px;
+}
+.movie-header {
+	text-transform: uppercase;
+  font-weight: 400;
+  font-size: 0.95em;
+  letter-spacing: 0.4px;
+  padding: 15px 25px;
+  border: 2px solid #333;
+  display: inline-block;
+  margin-top: 0px;
+  margin-bottom: 15px;
+}
+#nfo {
+	height:850px;
+}
+.main_char ul li {
+	display: inline-block;
+	list-style: none;
+	margin-right: 40px;
+	margin-bottom: 15px;
+	letter-spacing: 0.3px;
+	font-size: 13px;
+}
+
+.main_char ul {
+	padding-left: 0px;
+}
+.main_char{
+    float:right;
+    margin-left:5%;
+    width:60%;
+    margin-top:50px;
+}
+footer {
+	margin-top: 50px;
+}
+
+footer::before {
+	content: "";
+	display: block;
+	width: 90%;
+	margin-bottom: 20px;
+	border-top: 1px solid #dedede;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+footer p {
+	float: left;
+	color: #999;
+	letter-spacing: 0.3px;
+	font-size: 12px;
+	padding-bottom: 20px;
+}
+
+footer .social-media-icons {
+	float: right;
+}
+
+footer .social-media-icons i {
+	font-size: 24px;
+	color: #999;
+	transition: 0.5s ease-in-out;
+}
+
+footer .social-media-icons a:first-child {
+	margin-right: 20px;
+}
+
+footer .social-media-icons a:last-child:hover i {
+	color: #af0b0c;
+}
+
+footer .social-media-icons a:first-child:hover i {
+	color: #333;
+}
